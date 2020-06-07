@@ -1,1 +1,1 @@
-web: herokuAddr=siteproxy.yg0070.now.sh npm run start
+web: herokuAddr=proxy-yg0070.now.sh npm run start
